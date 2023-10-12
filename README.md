@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I'm Sailikhita Pulijala.
-😄 Pronouns: She/her/hers
-🌱 I'm currently pursing my Master's in Computer Science at Saint Louis University.
-✨ I'm currently working as a **Graduate Research Assistant (GRA)** at [Open Source with SLU](https://oss-slu.github.io/). I'm leading three projects at this organization right now.
-🔭 I have 4 years of relevant experience on working with cutting-edge technologies as Software Developer.
-👀 I'm interested in working as Full-Stack Developer and I'm open to work full-time from May 2024.
+- 👋 Hi, I'm Sailikhita Pulijala.
+- 😄 Pronouns: She/her/hers
+- 🌱 I'm currently pursing my Master's in Computer Science at Saint Louis University.
+- ✨ I'm currently working as a **Graduate Research Assistant (GRA)** at [Open Source with SLU](https://oss-slu.github.io/). I'm leading three projects at this organization right now.
+- 🔭 I have 4 years of relevant experience on working with cutting-edge technologies as Software Developer.
+- 👀 I'm interested in working as Full-Stack Developer and I'm open to work full-time from May 2024.
